@@ -25,21 +25,21 @@
   },
   "keywords": [
     "assert",
-    "es modules",
+    "es",
     "esm",
     "jasmine",
     "protractor"
   ],
   "license": "MIT",
-  "name": "protractor-es6-modules-esm-jasmine-assert",
+  "name": "protractor-es-modules-esm-jasmine-assert",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/protractor-es6-modules-esm-jasmine-assert.git"
+    "url": "git+https://github.com/e2e-boilerplates/protractor-es-modules-esm-jasmine-assert.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx protractor -r esm protractor.conf.js",
-    "test-ci": "npx protractor -r esm protractor-ci.conf.js",
+    "test:ci": "npx protractor -r esm protractor-ci.conf.js",
     "upadte-webderiver": "npx webdriver-manager update"
   },
   "version": "1.0.0"

@@ -2,7 +2,7 @@
     
 # Protractor Boilerplate
     
-Protractor end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [esm](https://www.npmjs.com/package/esmjs), [Jasmine](https://jasmine.github.io) and Assert.
+Protractor end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [esm](https://www.npmjs.com/package/esmjs), [Jasmine](https://jasmine.github.io) and [Commonjs](https://nodejs.org/api/assert.html).
     
 ## Getting Started
     
